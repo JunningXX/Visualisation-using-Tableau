@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard exploring how **wealth, health, and connectivity** relate across 207 countries between 2000 and 2012. Built as a portfolio project to demonstrate calculated fields, geographic and time-series visualisation, and dashboard design.
 
-> **🔗 Live interactive version:** [View on Tableau Public]([https://public.tableau.com/app/profile/junning.peng/viz/DataVisulisationonWorldIndicators/GlobalDevelopment])
+> **🔗 Live interactive version:** [View on Tableau Public](https://public.tableau.com/app/profile/junning.peng/viz/DataVisulisationonWorldIndicators/GlobalDevelopment)
 
 ---
 
